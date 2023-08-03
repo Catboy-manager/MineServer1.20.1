@@ -1,0 +1,5 @@
+{
+  "allow_one_block_mining": true,
+  "blacklisted_log_blocks": [],
+  "blacklisted_leaves_blocks": []
+}

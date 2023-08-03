@@ -1,0 +1,379 @@
+{
+  "mcwfences:recipes/stone": {
+    "criteria": {
+      "has_stone": "2023-07-11 01:24:49 +0300"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/end": {
+    "criteria": {
+      "has_end_brick": "2023-07-11 01:24:49 +0300"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/apple_juice": {
+    "criteria": {
+      "has_apple": "2023-07-11 01:25:15 +0300"
+    },
+    "done": true
+  },
+  "uselessreptile:dragon/root": {
+    "criteria": {
+      "requirement": "2023-07-11 01:22:12 +0300"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/dark_oak": {
+    "criteria": {
+      "has_dark_oak": "2023-07-11 01:24:49 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_shovel": "2023-07-11 01:25:25 +0300"
+    },
+    "done": true
+  },
+  "promenade:recipes/crafting/maple/boat": {
+    "criteria": {
+      "in_water": "2023-07-11 01:22:56 +0300"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/crimson": {
+    "criteria": {
+      "has_crimson": "2023-07-11 01:24:49 +0300"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/prismarine": {
+    "criteria": {
+      "has_qq": "2023-07-11 01:24:49 +0300"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/quartz": {
+    "criteria": {
+      "has_qq": "2023-07-11 01:24:49 +0300"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/sandstone": {
+    "criteria": {
+      "has_sand": "2023-07-11 01:24:49 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_shovel": "2023-07-11 01:25:25 +0300"
+    },
+    "done": true
+  },
+  "stellarity:cursed_tome/root": {
+    "criteria": {
+      "requirement": "2023-07-11 01:22:12 +0300"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/acacia": {
+    "criteria": {
+      "has_acacia": "2023-07-11 01:24:49 +0300"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/apple_pie": {
+    "criteria": {
+      "has_apple": "2023-07-11 01:25:15 +0300"
+    },
+    "done": true
+  },
+  "croptopia:recipes/fruit_smoothie": {
+    "criteria": {
+      "has_fruit": "2023-07-11 01:25:15 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2023-07-11 01:22:12 +0300"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/jungle": {
+    "criteria": {
+      "has_jungle": "2023-07-11 01:24:49 +0300"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/oak": {
+    "criteria": {
+      "has_oak": "2023-07-11 01:24:49 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/cherry_boat": {
+    "criteria": {
+      "in_water": "2023-07-11 01:22:56 +0300"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/mud_brick": {
+    "criteria": {
+      "has_qq": "2023-07-11 01:24:49 +0300"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/mangrove": {
+    "criteria": {
+      "has_mangrove": "2023-07-11 01:24:49 +0300"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/warped": {
+    "criteria": {
+      "has_warped": "2023-07-11 01:24:49 +0300"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/blackstone": {
+    "criteria": {
+      "has_blackstone": "2023-07-11 01:24:49 +0300"
+    },
+    "done": true
+  },
+  "croptopia:recipes/toast_with_jam": {
+    "criteria": {
+      "has_jam": "2023-07-11 01:25:08 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/bamboo_raft": {
+    "criteria": {
+      "in_water": "2023-07-11 01:22:56 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "in_water": "2023-07-11 01:22:56 +0300"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/hedge": {
+    "criteria": {
+      "has_birch": "2023-07-11 01:24:49 +0300"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2023-07-11 01:24:52 +0300"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/nether": {
+    "criteria": {
+      "has_nether_brick": "2023-07-11 01:24:49 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "in_water": "2023-07-11 01:22:56 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2023-07-11 01:22:56 +0300"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/apple_sapling": {
+    "criteria": {
+      "has_apple": "2023-07-11 01:25:15 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/mangrove_boat": {
+    "criteria": {
+      "in_water": "2023-07-11 01:22:56 +0300"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/turmeric_seed": {
+    "criteria": {
+      "has_turmeric": "2023-07-11 01:25:54 +0300"
+    },
+    "done": true
+  },
+  "adorn:recipes/brewer": {
+    "criteria": {
+      "has_mug": "2023-07-11 01:24:52 +0300"
+    },
+    "done": true
+  },
+  "croptopia:gather_food": {
+    "criteria": {
+      "apricot_jam": "2023-07-11 01:25:08 +0300"
+    },
+    "done": false
+  },
+  "mcwfences:recipes/bamboo": {
+    "criteria": {
+      "has_bamboo": "2023-07-11 01:24:49 +0300"
+    },
+    "done": true
+  },
+  "stellarity:dragons_den/cursed_tome/root": {
+    "criteria": {
+      "requirement": "2023-07-11 01:22:12 +0300"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/deepslate": {
+    "criteria": {
+      "has_deepslate": "2023-07-11 01:24:49 +0300"
+    },
+    "done": true
+  },
+  "promenade:recipes/crafting/sakura/boat": {
+    "criteria": {
+      "in_water": "2023-07-11 01:22:56 +0300"
+    },
+    "done": true
+  },
+  "promenade:recipes/crafting/palm/boat": {
+    "criteria": {
+      "in_water": "2023-07-11 01:22:56 +0300"
+    },
+    "done": true
+  },
+  "dungeons_arise:wda_root": {
+    "criteria": {
+      "WDA": "2023-07-11 01:22:12 +0300"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/spruce": {
+    "criteria": {
+      "has_spruce": "2023-07-11 01:24:49 +0300"
+    },
+    "done": true
+  },
+  "adorn:all_brewing": {
+    "criteria": {
+      "has_sweet_berry_juice": "2023-07-11 01:24:49 +0300"
+    },
+    "done": false
+  },
+  "croptopia:recipes/documentation": {
+    "criteria": {
+      "has_crop": "2023-07-11 01:25:15 +0300"
+    },
+    "done": true
+  },
+  "adorn:recipes/mug": {
+    "criteria": {
+      "has_glass_bottle": "2023-07-11 01:25:10 +0300"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/orange_dye": {
+    "criteria": {
+      "has_turmeric": "2023-07-11 01:25:54 +0300"
+    },
+    "done": true
+  },
+  "croptopia:eatcrafted": {
+    "criteria": {
+      "eat_crafted": "2023-07-11 01:25:10 +0300"
+    },
+    "done": true
+  },
+  "croptopia:recipes/fruit_salad": {
+    "criteria": {
+      "has_apple": "2023-07-11 01:25:15 +0300"
+    },
+    "done": true
+  },
+  "croptopia:gather_savanna": {
+    "criteria": {
+      "turmeric_seed": "2023-07-11 01:25:54 +0300"
+    },
+    "done": false
+  },
+  "croptopia:gather_all": {
+    "criteria": {
+      "turmeric_seed": "2023-07-11 01:25:54 +0300"
+    },
+    "done": false
+  },
+  "wythers:world_explorer": {
+    "criteria": {
+      "wythers:sakura_forest": "2023-07-11 01:22:37 +0300",
+      "wythers:sparse_bamboo_jungle": "2023-07-11 01:23:31 +0300",
+      "wythers:jungle_river": "2023-07-11 01:23:45 +0300",
+      "wythers:subtropical_forest": "2023-07-11 01:23:15 +0300"
+    },
+    "done": false
+  },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2023-07-11 01:22:56 +0300"
+    },
+    "done": true
+  },
+  "croptopia:getseeds": {
+    "criteria": {
+      "has_seeds": "2023-07-11 01:25:54 +0300"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:bamboo_jungle": "2023-07-11 01:23:57 +0300",
+      "minecraft:old_growth_birch_forest": "2023-07-11 01:22:13 +0300"
+    },
+    "done": false
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "melon_stem": "2023-07-11 01:27:13 +0300"
+    },
+    "done": true
+  },
+  "croptopia:recipes/peanut_butter_and_jam": {
+    "criteria": {
+      "has_jam": "2023-07-11 01:25:08 +0300"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "apple": "2023-07-11 01:25:18 +0300"
+    },
+    "done": false
+  },
+  "mcwfences:recipes/birch": {
+    "criteria": {
+      "has_birch": "2023-07-11 01:24:49 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "in_water": "2023-07-11 01:22:56 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "in_water": "2023-07-11 01:22:56 +0300"
+    },
+    "done": true
+  },
+  "DataVersion": 3465
+}

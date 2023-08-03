@@ -1,0 +1,39 @@
+{
+  "uselessreptile:dragon/root": {
+    "criteria": {
+      "requirement": "2023-07-01 21:39:12 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2023-07-01 21:39:12 +0300"
+    },
+    "done": true
+  },
+  "betternether:root": {
+    "criteria": {
+      "welcome": "2023-07-01 21:39:13 +0300"
+    },
+    "done": true
+  },
+  "betterend:root": {
+    "criteria": {
+      "welcome": "2023-07-01 21:39:13 +0300"
+    },
+    "done": true
+  },
+  "dungeons_arise:wda_root": {
+    "criteria": {
+      "WDA": "2023-07-01 21:39:12 +0300"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:old_growth_birch_forest": "2023-07-01 21:39:13 +0300"
+    },
+    "done": false
+  },
+  "DataVersion": 3465
+}
